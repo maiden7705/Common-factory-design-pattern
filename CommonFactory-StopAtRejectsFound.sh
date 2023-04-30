@@ -1,7 +1,7 @@
 #!/bin/sh
 # CommonFactory-StopAtRejectsFound.sh
 # Author: Adil Baig (baigm01) 
-# Creation Date: 2018/07/05
+# Creation Date: 2018/07/05 
 #
 # Checks if particular job steps had rejects,
 # if it did, get the row count of the file, 

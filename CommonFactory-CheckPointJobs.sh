@@ -1,7 +1,7 @@
 #!/bin/sh
 # CommonFactory-CheckPointJobs.sh
 # Author: Adil Baig (baigm01) 
-# Creation Date: 2018/05/28
+# Creation Date: 2018/05/28 
 #
 # Utility that checks if passed job is found in the checkPoint run file
 #

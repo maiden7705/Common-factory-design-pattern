@@ -1,7 +1,7 @@
 #!/bin/sh
 # CommonFactory-CompressAndArchive.sh
 # Author:  Adil Baig
-# Create Date: 03/28/2018
+# Create Date: 03/28/2018 
 # Last Modified date: 03/28/2018
 #Note: This script archives all inbound, processing and reject files at archive location supplied
 

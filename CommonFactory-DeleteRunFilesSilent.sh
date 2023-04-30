@@ -1,7 +1,7 @@
 #!/bin/sh
 # CommonFactory-DeleteRunFilesSilent.sh
 # Author:  Adil Baig
-# Create Date: 06/28/2018
+# Create Date: 06/28/2018 
 #Note: This script simply deletes all the run files in processing and reject folder
 
 # execution example:

@@ -1,7 +1,7 @@
 #!/bin/sh
 # CommonFactory-checkSFTPFileComplete.sh
 # Author: Adil Baig (baigm01) 
-# Creation Date: 2018/04/20
+# Creation Date: 2018/04/20 
 #
 # This is a regular expression based pattern matching utility
 # that matches most of the SAP SFTP file pattern of style "interfacename-YYMMDD-HHMMSS-MSS.txt"
